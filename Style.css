@@ -1,0 +1,54 @@
+#titulo{
+    margin:0;
+    padding: 20px;
+    background-color: rgb(0, 20, 107);
+    color: beige;
+    text-align: center;
+}
+
+#img{
+    text-align: center;
+    margin:0;
+}
+
+.eje{
+    margin:0;
+    text-align: center;
+    background-color: rgb(0, 57, 180);
+    padding: 10px;
+    color: beige;
+}
+
+.PERSONALES{
+    text-align: center;
+    margin:0;
+}
+
+
+.j{
+    background-color: rgb(143, 150, 188);
+    color:rgb(0, 52, 100);
+    padding:10px;
+    margin:0;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background-color: beige;
+}
+body{
+    background-image:url(./images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 800px;
+    margin:0 auto;
+}
+
+ul{
+    background-color: beige;
+}
+
+*{
+    margin:0;
+}
